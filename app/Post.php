@@ -10,7 +10,7 @@ class Post extends Model
     public $timestamps= true;
 
     public function Author(){
-        
+        // code here
     }
 
 }
